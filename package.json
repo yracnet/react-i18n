@@ -1,0 +1,23 @@
+{
+  "name": "react-i18n",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "micromustache": "^8.0.3",
+    "nearley": "^2.20.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.27",
+    "@types/react-dom": "^18.0.10",
+    "@vitejs/plugin-react": "^3.1.0",
+    "ne-test-client": "^0.1.2",
+    "vite": "^4.1.0"
+  }
+}
